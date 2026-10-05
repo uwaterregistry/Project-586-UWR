@@ -108,3 +108,104 @@ utilization of rainwater resources.
 j) Supports long-term environmental sustainability by promoting integrated water resource
 management, climate resilience, regulatory compliance, and responsible water stewardship
 ____________
+Verifier	Climensys Pvt. Ltd.
+
+Verification Report	Final Verification Report V01, dated 20/07/2026
+
+Scope	Description	Final RoUs
+
+Scope-2 (Rainwater Harvesting)
+
+Parameter	Value
+
+Uncertainty Factor Applied	25% (i.e., factor of 0.75)
+
+Basis	As per Rainwater Offset Standard version 8.1, a conservative approach of 10–50% uncertainty is recommended for vintage years 2014–2021. The project applied a 25% uncertainty factor for the entire monitoring period based on recharge estimations.
+
+Formula Used	Volume = Area of Catchment (m²) × Rainfall (m) × Runoff Coefficient × 0.75
+
+Parameter	Value
+
+Uncertainty Factor Applied	0.5%
+
+Basis	Flow meters installed at site have an accuracy class of 0.5%. Since meters operate with minimal manual intervention, measurement is free from human error. This is more conservative than the default 10% recommended in the standard.
+___________
+Scope-2	Conservation and storage of rooftop rainwater and surface runoff (Rainwater Harvesting)	2,570,604
+___________
+Scope-5	Treatment and reuse of wastewater (ETP) and hot condensate water (CPU)	2,357,408
+___________
+Total		4,928,011 RoUs
+____________
+Serial Number: 0001-000001-261003-UWR-RoU-IN-586-01012014-31122014
+
+Vintage Year: 2014
+
+Quantity: 261003
+___________
+Serial Number: 0001-261004-588538-UWR-RoU-IN-586-01012015-31122015
+
+Vintage Year: 2015
+
+Quantity: 327535
+____________
+Serial Number: 0001-588539-915100-UWR-RoU-IN-586-01012016-31122016
+
+Vintage Year: 2016
+
+Quantity: 326562
+______________
+Serial Number: 0001-915101-1119349-UWR-RoU-IN-586-01012017-31122017
+
+Vintage Year: 2017
+
+Quantity: 204249
+__________
+Serial Number: 0001-1119350-1424125-UWR-RoU-IN-586-01012018-31122018
+
+Vintage Year: 2018
+
+Quantity: 304776
+_______________
+Serial Number: 0001-1424126-1802647-UWR-RoU-IN-586-01012019-31122019
+
+Vintage Year: 2019
+
+Quantity: 378522
+________________
+Serial Number: 0001-1802648-2694165-UWR-RoU-IN-586-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity: 891518
+______________
+Serial Number: 0001-2694166-3201218-UWR-RoU-IN-586-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 507053
+_____________
+Serial Number: 0001-3201219-3728171-UWR-RoU-IN-586-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 526953
+______________
+Serial Number: 0001-3728172-4163762-UWR-RoU-IN-586-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 435591
+_________________
+Serial Number: 0001-4163763-4602787-UWR-RoU-IN-586-01012024-31122024
+
+Vintage Year: 2024
+
+Quantity: 439025
+_____________
+Serial Number: 0001-4602788-4928009-UWR-RoU-IN-586-01012025-31122025
+
+Vintage Year: 2025
+
+Quantity: 325222
+___________
+
